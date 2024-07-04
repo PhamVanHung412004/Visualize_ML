@@ -1,1 +1,1 @@
-# Visualize_ML
+# Các bạn lưu ý khi clone xuống nhỡ hãy đổi lại tên đường dẫn đến các thư mục ở trong từng file code
